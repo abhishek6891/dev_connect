@@ -1,0 +1,16 @@
+[
+  {
+    "developer_name": "Rajesh Kumar",
+    "email": "rajesh.k@example.com",
+    "skills": ["React", "Node.js", "MongoDB"],
+    "experience_years": 5,
+    "assigned_projects": ["E-Commerce Website"]
+  },
+  {
+    "developer_name": "Anita Sharma",
+    "email": "anita.s@example.com",
+    "skills": ["Flutter", "Firebase"],
+    "experience_years": 3,
+    "assigned_projects": ["Fitness App"]
+  }
+]

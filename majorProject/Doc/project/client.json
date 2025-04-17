@@ -1,0 +1,18 @@
+[
+  {
+    "client_name": "Alice Johnson",
+    "email": "alice.j@example.com",
+    "company": "Alice Crafts",
+    "contact_number": "+91-9876543210",
+    "address": "123, MG Road, Bengaluru, India",
+    "projects": ["E-Commerce Website", "Handmade Crafts Portal"]
+  },
+  {
+    "client_name": "Michael Green",
+    "email": "michael.g@example.com",
+    "company": "FitLife Inc.",
+    "contact_number": "+91-9123456780",
+    "address": "456, Indiranagar, Bengaluru, India",
+    "projects": ["Fitness App"]
+  }
+]
